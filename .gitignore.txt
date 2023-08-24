@@ -1,0 +1,49 @@
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled executable files
+*.exe
+
+# Compiled binary files
+*.out
+
+# Makefile generated files
+Makefile
+
+# Compiled static libraries
+*.a
+
+# Visual Studio files
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+*.vcxproj.*.user
+
+# Xcode files
+*.xcodeproj/
+
+# CMake files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# Clion files
+.cmake/
+cmake-build-debug/
+
+# Compiled GTest files
+gtest/
+gtest_main/
